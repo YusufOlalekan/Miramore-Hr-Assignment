@@ -12,5 +12,5 @@ Learn Create Lead
 - SQL
 - Excel
 
-  ```Total_emp = countrows([hr_data])
+  ```Total_emp = countrows([hr_data])```
 
