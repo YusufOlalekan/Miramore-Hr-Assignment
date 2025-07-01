@@ -6,3 +6,4 @@ for power bi  assignment
 Learn Create Lead
 
 # Project picture
+https://github.com/YusufOlalekan/Miramore-Hr-Assignment/blob/main/hr.jpg
