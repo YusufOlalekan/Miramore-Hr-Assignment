@@ -1,6 +1,8 @@
 # Power Bi Assignment
 for power bi  assignment
-#We are miramore
+# We are miramore
 
 # Overview
 Learn Create Lead
+
+# Project picture
