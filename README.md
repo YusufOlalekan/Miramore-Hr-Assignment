@@ -1,6 +1,15 @@
 # Power Bi Assignment
 for power bi  assignment
+
 # We are miramore
+
+# Table of content
+- [Overview]
+- [Data analysis]
+- [Exploratory data analysis]
+- [Result]
+- [Recommendation]
+- [Reference]
 
 # Overview
 Learn Create Lead
